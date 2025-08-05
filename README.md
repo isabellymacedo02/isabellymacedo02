@@ -47,10 +47,10 @@
   </div>
 
 ## FrameWorks
-- Angular  <img align="center" alt="Angular" height="30"  src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F4144142&psig=AOvVaw0X5Y-N_dZ2b4ywMl_40HR5&ust=1754501798321000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiO29ea9I4DFQAAAAAdAAAAABAE">
+- Angular  <img align="center" alt="Angular" height="30"  src="https://image.pngaaa.com/142/4144142-middle.png">
 - React    <img align="center" alt="Angular" height="30"  src="https://cdn.iconscout.com/icon/free/png-256/free-react-3-1175109.png">
 - .Net     <img align="center" alt="Angular" height="30"  src="https://icon-library.com/images/vb-net-icon/vb-net-icon-10.jpg">
-- NodeJs    <img align="center" alt="Angular" height="30"  src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dnode%2Bjs&psig=AOvVaw3Di7qxdtIMAg_rqR8Mp72a&ust=1754501728606000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD3o7ea9I4DFQAAAAAdAAAAABAE">
+- NodeJs    <img align="center" alt="Angular" height="30"  src="https://w7.pngwing.com/pngs/205/650/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development.png">
 
   </div>
 <br>
