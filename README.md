@@ -47,10 +47,10 @@
   </div>
 
 ## FrameWorks
-- Angular  <img align="center" alt="Angular" height="30"  src="https://w7.pngwing.com/pngs/311/952/png-transparent-angular-logo-landscape-tech-companies-thumbnail.png">
+- Angular  <img align="center" alt="Angular" height="30"  src="https://c0.klipartz.com/pngpicture/620/322/gratis-png-angularjs-ruby-%E2%80%8B%E2%80%8Bon-rails-aplicacion-web-de-mecanografia-icon-hacker-thumbnail.png">
 - React    <img align="center" alt="Angular" height="30"  src="https://cdn.iconscout.com/icon/free/png-256/free-react-3-1175109.png">
 - .Net     <img align="center" alt="Angular" height="30"  src="https://icon-library.com/images/vb-net-icon/vb-net-icon-10.jpg">
-- NodeJs    <img align="center" alt="Angular" height="30"  src="https://images.seeklogo.com/logo-png/26/1/node-js-logo-png_seeklogo-269242.png](https://w7.pngwing.com/pngs/906/720/png-transparent-nodejs-plain-logo-icon.png">
+- NodeJs    <img align="center" alt="Angular" height="30"  src="https://image.pngaaa.com/668/4547668-middle.png">
 
   </div>
 <br>
