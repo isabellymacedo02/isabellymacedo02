@@ -50,7 +50,7 @@
 - Angular  <img align="center" alt="Angular" height="30"  src="https://cdn.freebiesupply.com/logos/large/2x/angular-3-logo-png-transparent.png">
 - React    <img align="center" alt="Angular" height="30"  src="https://cdn.iconscout.com/icon/free/png-256/free-react-3-1175109.png">
 - .Net     <img align="center" alt="Angular" height="30"  src="https://icon-library.com/images/vb-net-icon/vb-net-icon-10.jpg">
-- NodeJs    <img align="center" alt="Angular" height="30"  src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png">
+- NodeJs    <img align="center" alt="Angular" height="30"  src="https://www.clipartmax.com/png/middle/87-879058_formation-node-js-node-js-logo-vector.png">
 
   </div>
 <br>
