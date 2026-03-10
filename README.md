@@ -39,18 +39,14 @@
   <img align="center" src="https://media.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" alt="Imagem">
 
 </p>
-
-## 🔥 Skills
-### Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellymacedo02&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
   </div>
 
 ## FrameWorks
 - Angular  <img align="center" alt="Angular" height="30"  src="https://cdn.freebiesupply.com/logos/large/2x/angular-3-logo-png-transparent.png">
 - React    <img align="center" alt="Angular" height="30"  src="https://cdn.iconscout.com/icon/free/png-256/free-react-3-1175109.png">
-- .Net     <img align="center" alt="Angular" height="30"  src="https://icon-library.com/images/vb-net-icon/vb-net-icon-10.jpg">
-- NodeJs    <img align="center" alt="Angular" height="30"  src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png">
+- CSS3     <img align="center" alt="Angular" height="30"  src="https://github.com/user-attachments/assets/3046309d-ab68-4113-93d6-9618e8c51dbd">
+
+- Python    <img align="center" alt="Angular" height="30"  src="https://img.icons8.com/color/512/python--v2.png">
 
   </div>
 <br>
